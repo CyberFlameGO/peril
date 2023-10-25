@@ -49,7 +49,7 @@
     "graphql-tools-types": "1.1.26",
     "json5": "2.1.0",
     "jsonwebtoken": "8.5.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "mongoose": "5.3.4",
     "node-fetch": "2.3.0",
     "node-mocks-http": "1.7.3",
